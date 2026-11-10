@@ -1,12 +1,8 @@
-# cs410-text-mining
+CS410 — Text Information Systems
+Coursework for Text Information Systems at UIUC, Fall 2025.
 
-Selected coursework for CS410: Text Information Systems at the University of Illinois Urbana-Champaign, Fall 2025.
+- HW1: Text preprocessing and parameter configuration.
+- HW2: Hadoop, inverted indexing, TF-IDF, smoothing, and web crawling.
+- HW3: Word2Vec and LSTM prediction, BERT/GPT-2 comparison, and LDA topic modeling.
 
-## Contents
-
-HW1: Text preprocessing and experiment parameter configuration.
-
-HW2: Hadoop and Google Colab environment setup, with calls to scripts for word frequencies, inverted indexing, TF-IDF, Jelinek–Mercer smoothing, web crawling, and parameter evaluation.
-
-HW3: Word prediction using Word2Vec and LSTM, a comparison of BERT and GPT-2 predictions, and LDA topic modeling, with recorded results and visualizations.
-
+Tools: Python · Jupyter · Hadoop · Gensim · Transformers
